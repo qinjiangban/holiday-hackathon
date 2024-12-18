@@ -28,4 +28,4 @@ Designed to simplify the creation of meme coins. Allows anyone to quickly and ea
 
 # Screenshots:
 
-![img](https://github.com/qinjiangban/pdogfun/blob/main/public/lens/pdogfun-screenshots.jpeg?raw=true)
+![img](https://github.com/qinjiangban/pdogfun/blob/main/public/pdogfun-screenshots.jpeg?raw=true)
