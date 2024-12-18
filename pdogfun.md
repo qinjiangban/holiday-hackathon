@@ -4,7 +4,7 @@ PdogFun
 
 # Team Members:
 
-qinjiangban
+[qinjiangban](https://hey.xyz/u/qinjiangban)
 
 # Project Description:
 
